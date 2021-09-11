@@ -16,4 +16,5 @@
 
 ├── Simple Redux
 ├── Advance Redux
+├── Protected Routing
 ```
