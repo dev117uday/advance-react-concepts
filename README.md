@@ -1,6 +1,7 @@
 # Advance React Examples
 
 ```
+
 ├── 1-useState
 ├── 2-useEffect
 ├── 3-conditional-rendering
@@ -14,7 +15,9 @@
 ├── 11-react-router
 ├── 12-memo-useMemo-useCallback
 
-├── Simple Redux
-├── Advance Redux
+├── Redux
+    ├── Simple Redux
+    ├── Advance Redux
+
 ├── Protected Routing
 ```
